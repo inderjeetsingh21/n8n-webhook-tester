@@ -135,9 +135,6 @@ To prevent abuse and protect target servers:
 - **Load Testing**: Additional restrictions on concurrent requests
 - **User Feedback**: Clear warnings when approaching limits
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### Development Setup
 1. Fork the repository
@@ -165,7 +162,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the https://opensource.org/license/mit for details.
 
 ## 🙏 Acknowledgments
 
